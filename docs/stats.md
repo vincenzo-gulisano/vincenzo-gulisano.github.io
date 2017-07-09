@@ -1,5 +1,5 @@
 
-[![](images/liebre_small.jpg)](index)
+[![](images/liebre_small.jpg)](../index)
 
 ## Statistics
 
