@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title and page.title != "Home" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="icon" href="{{ '/assets/uploads/2014/10/vincenzo_gulisano.jpg' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">Vincenzo Gulisano</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+          <a href="{{ '/theses-projects/' | relative_url }}">Supervision</a>
+          <a href="{{ '/aboutme/' | relative_url }}">Miscellaneous</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a href="{{ '/liebre/' | relative_url }}">Liebre</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      <article class="content">
+        {% unless page.hide_title %}
+          <h1 class="page-title">{{ page.title }}</h1>
+        {% endunless %}
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <span>{{ site.title }}</span>
+        <a href="mailto:vincenzo.gulisano@chalmers.se">vincenzo.gulisano@chalmers.se</a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,9 +1,13 @@
+---
+layout: page
+title: Liebre basic concepts
+---
 
-[![](images/liebre_small.jpg)](../index)
+[![](/docs/images/liebre_small.jpg)](/liebre/)
 
 ## The basics
 
-![](images/query.jpg)
+![](/docs/images/query.jpg)
 
 A streaming application runs a **query**, a directed acyclic graph of **sources**, **operators** and **sinks** connected by **streams**:
 
@@ -17,7 +21,7 @@ When you create your query, you add sources, operators and sinks and connect the
 
 In this example, a source creates a stream of tuples with attributes _&lt;timestamp,key,value&gt;_ and feeds them to an operator that multiplies the value by 2. This operator feeds its output tuples to a sink that prints them.
 
-![](images/simplequery.jpg)
+![](/docs/images/simplequery.jpg)
 
 ```java
 public class SimpleQuery {

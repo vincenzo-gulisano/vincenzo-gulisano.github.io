@@ -1,5 +1,9 @@
+---
+layout: page
+title: Liebre statistics
+---
 
-[![](images/liebre_small.jpg)](../index)
+[![](/docs/images/liebre_small.jpg)](/liebre/)
 
 ## Statistics
 

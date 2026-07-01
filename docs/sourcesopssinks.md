@@ -1,5 +1,9 @@
+---
+layout: page
+title: Liebre sources, operators and sinks
+---
 
-[![](images/liebre_small.jpg)](../index)
+[![](/docs/images/liebre_small.jpg)](/liebre/)
 
 ## Liebre sources, operators and sinks
 
@@ -25,7 +29,7 @@ Operator<String, MyTuple> inputReader =
         });
 ```
 
-Please notice: As for the example in [the basics](basics.md), you need to specify an id for the operator you are adding (in this case _i1_).
+Please notice: As for the example in [the basics](/docs/basics/), you need to specify an id for the operator you are adding (in this case _i1_).
 
 #### Operator - Map (complete examples [here](https://github.com/vincenzo-gulisano/Liebre/blob/master/src/test/java/example/TextMap2.java) and [here](https://github.com/vincenzo-gulisano/Liebre/blob/master/src/test/java/example/TextMap1.java))
 

@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
 title: Vincenzo Gulisano
-description: Documentation for the Liebre project.
+description: Professor at Chalmers University of Technology.
+url: "https://vincenzo-gulisano.github.io"
+permalink: /:year/:month/:day/:title/
+future: true
+exclude:
+  - scripts
+  - media-export-77654073-from-0-to-566.tar
+  - vincenzogulisanophd.WordPress.2026-06-30.xml
