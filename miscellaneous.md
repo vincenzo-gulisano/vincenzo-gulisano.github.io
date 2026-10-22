@@ -30,6 +30,9 @@ permalink: "/aboutme/"
 <h3>Conference Program Committee Member</h3>
 
 <ul>
+    <li>ACM/SPEC International Conference on Performance Engineering (ICPE) 2027</li>
+    <li>International Conference on Distributed Applications and Interoperable Systems (DAIS) 2027, 2023, 2020</li>
+    <li>ACM/IFIP/USENIX International Middleware Conference. Research track 2027, 2024, 2022, 2021, 2020</li>
     <li>VLDB27</li>
     <li>Euro-Par 2026</li>
     <li>ACM International conference on Distributed Event-Based Systems (DEBS) - Research track 2026-2025, 2023-2019, 2017-2015; Demos and Posters 2020.</li>
@@ -39,17 +42,14 @@ permalink: "/aboutme/"
     <li>ADBIS 2025</li>
     <li>ICDCS 2025/2024</li>
     <li>VLDB 2025/2024 (<em>Distinguished Reviewer Award</em>)</li>
-    <li>ACM/IFIP/USENIX International Middleware Conference. Research track 2024, 2022, 2021, 2020</li>
     <li>ACM Symposium on Applied Computing (SAC) - Dependable, Adaptive, and Trustworthy Distributed Systems track (DADS) 2024, 2023, 2022, 2021, 2020, 2019,  2018,  2017,  2016,  2015</li>
     <li>5th International Workshop on Cloud, IoT and Fog Systems (and Security) — CIFS 2023</li>
     <li>International Workshop on Scalable Compute Continuum (WSCC 2024, 2023)
 Colocated with the 29th International European Conference on Parallel and Distributed Computing (Euro-Par 2023)</li>
     <li>14TH International Workshop on Self-Managing Database Systems (@ICDE2023)</li>
-    <li>DAIS 2023 - 23nd International Conference on Distributed Applications and Interoperable Systems</li>
     <li>ICDCS 2023 (Cloud Computing track)</li>
     <li>14th International Workshop on Self-Managing Database Systems (part of ICDE) 2023</li>
     <li>IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021</li>
-    <li>20th International Conference on Distributed Applications and Interoperable Systems (DAIS) 2020</li>
     <li>International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DASP): 2021</li>
     <li>International Symposium on Wireless Communication Systems (ISWCS) 2017</li>
     <li>International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies (EnERGY) 2017</li>
