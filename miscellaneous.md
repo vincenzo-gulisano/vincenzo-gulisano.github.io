@@ -30,6 +30,7 @@ permalink: "/aboutme/"
 <h3>Conference Program Committee Member</h3>
 
 <ul>
+    <li>IEEE CCGrid 2027, 2026</li>
     <li>ACM/SPEC International Conference on Performance Engineering (ICPE) 2027</li>
     <li>International Conference on Distributed Applications and Interoperable Systems (DAIS) 2027, 2023, 2020</li>
     <li>ACM/IFIP/USENIX International Middleware Conference. Research track 2027, 2024, 2022, 2021, 2020</li>
@@ -37,7 +38,6 @@ permalink: "/aboutme/"
     <li>Euro-Par 2026</li>
     <li>ACM International conference on Distributed Event-Based Systems (DEBS) - Research track 2026-2025, 2023-2019, 2017-2015; Demos and Posters 2020.</li>
     <li>ACM International Symposium on High-Performance Parallel and Distributed Computing 2026</li>
-    <li>IEEE CCGrid 2026</li>
     <li>ICDE26</li>
     <li>ADBIS 2025</li>
     <li>ICDCS 2025/2024</li>
